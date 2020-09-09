@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robobuddies/static/css/main.55a3fc23.chunk.css",
+    "main.js": "/Robobuddies/static/js/main.ab90ca94.chunk.js",
+    "main.js.map": "/Robobuddies/static/js/main.ab90ca94.chunk.js.map",
+    "runtime-main.js": "/Robobuddies/static/js/runtime-main.78fd9c8d.js",
+    "runtime-main.js.map": "/Robobuddies/static/js/runtime-main.78fd9c8d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Robobuddies/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e098fac4.chunk.js": "/Robobuddies/static/js/2.e098fac4.chunk.js",
+    "static/js/2.e098fac4.chunk.js.map": "/Robobuddies/static/js/2.e098fac4.chunk.js.map",
+    "index.html": "/Robobuddies/index.html",
+    "precache-manifest.7ad9e28c10d04a7d5a4499d974a3795f.js": "/Robobuddies/precache-manifest.7ad9e28c10d04a7d5a4499d974a3795f.js",
+    "service-worker.js": "/Robobuddies/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Robobuddies/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.55a3fc23.chunk.css.map": "/Robobuddies/static/css/main.55a3fc23.chunk.css.map",
+    "static/js/2.e098fac4.chunk.js.LICENSE.txt": "/Robobuddies/static/js/2.e098fac4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robobuddies/static/media/AtariClassicSmooth-XzW2.8c8978db.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78fd9c8d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e098fac4.chunk.js",
+    "static/css/main.55a3fc23.chunk.css",
+    "static/js/main.ab90ca94.chunk.js"
+  ]
+}
